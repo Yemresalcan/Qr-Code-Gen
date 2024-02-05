@@ -23,6 +23,6 @@ This app allows you to create and customize QR codes with a simple interface.
 1. Clone the project:
 
 ```bash
-git clone https://github.com/yemresalcan/create-qr-code.git
-cd create-qr-code
+git clone https://github.com/yemresalcan/create-qr-gen.git
+cd create-qr-gen
 npm install
